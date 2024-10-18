@@ -4,11 +4,12 @@ In this project, we aim to create an AI-powered web application that extracts de
 
 Key Features:
 
-Image details extraction using LLMs
-Generative AI for image description
-User-friendly Streamlit interface for image-to-text conversion
-Capability to extract specific elements from images
-Integration of Google Generative AI with Python
-Support for saving output in TXT or CSV formats
-Comprehensive guide for implementing LLMs in image analysis
+
+1.) Image details extraction using LLMs.
+2.) Generative AI for image description.
+3.) User-friendly Streamlit interface for image-to-text conversion.
+4.) Capability to extract specific elements from images.
+5.) Integration of Google Generative AI with Python.
+6.) Support for saving output in TXT or CSV formats.
+7.) Comprehensive guide for implementing LLMs in image analysis.
 
